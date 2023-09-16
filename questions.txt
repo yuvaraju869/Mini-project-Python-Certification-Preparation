@@ -1,0 +1,29 @@
+1. What is the capital of France?
+   Options: Paris, London, Berlin, Rome
+
+2. Which planet is known as the Red Planet?
+   Options: Mars, Venus, Jupiter, Saturn
+
+3. What is the largest mammal in the world?
+   Options: Elephant, Giraffe, Blue Whale, Cheetah
+
+4. Who wrote the play "Romeo and Juliet"?
+   Options: Charles Dickens, William Shakespeare, Jane Austen, Mark Twain
+
+5. What is the chemical symbol for gold?
+   Options: Ag, Au, Fe, Hg
+
+6. Which country is famous for the Great Wall?
+   Options: Japan, China, India, Egypt
+
+7. What is the largest organ in the human body?
+   Options: Heart, Brain, Skin, Liver
+
+8. Who is the author of "To Kill a Mockingbird"?
+   Options: F. Scott Fitzgerald, J.K. Rowling, Harper Lee, George Orwell
+
+9. What is the tallest mountain in the world?
+   Options: Mount Kilimanjaro, Mount Everest, Mount Fuji, Mount McKinley
+
+10. What is the capital of Australia?
+    Options: Canberra, Sydney, Melbourne, Brisbane
